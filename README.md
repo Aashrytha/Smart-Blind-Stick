@@ -1,3 +1,27 @@
-# Smart-Blind-Stick
+# Smart Blind Stick with Obstacle Detection & GPS Tracking  
 
-Visually impaired have a deficiency in their vision which has limitations in terms of mobility. On the other side, the blind must also run their daily activities. The developed project serves the best solution to overcome the difficulties of blind people, so that they can easily mobilize themselves, be a more successful part of society. Our main objective is to make it a compact and portable stick for users. The salient features of the developed prototype are ultrasonic sensor for obstacle detection and GPS tracking system to trigger a predefined message in hard situations. The ultrasonic sensor on detecting the obstacle signals the Arduino uno through the collected data and sends a warning in the form of sound through buzzer. GPS tracking system which adds exponential value in terms of safety of the user. This GPS works on a buzzer mechanism that triggers a predefined message. The experimental results shows that the developed prototype is much more efficient and usable in varying situations for a blind person as compared to the ordinary white sticks. A simple, cheap, configurable, easy to handle electronic guidance system is proposed to provide constructive assistant and support for blind and visually impaired persons.
+This project aims to assist **visually impaired individuals** by enhancing their **mobility and safety**. Traditional white sticks provide limited support, whereas this **Smart Blind Stick** integrates modern technology to offer **real-time obstacle detection and emergency alerts**.  
+
+## 📌 Features  
+✔️ **Ultrasonic Sensor** – Detects obstacles and alerts the user via a buzzer  
+✔️ **GPS Tracking System** – Sends a predefined emergency message in critical situations  
+✔️ **Arduino Uno** – Processes sensor data for real-time alerts  
+✔️ **Compact & Portable** – Designed for easy handling and daily use  
+✔️ **Affordable & Configurable** – A cost-effective alternative to high-end navigation aids  
+
+## 🛠️ Technologies Used  
+- **Arduino Uno** – Microcontroller for processing sensor inputs  
+- **Ultrasonic Sensor** – Detects obstacles within a defined range  
+- **Buzzer** – Provides audio alerts to warn the user  
+- **GPS Module** – Triggers an emergency message in predefined situations  
+
+## 🚀 Project Overview  
+- The **ultrasonic sensor** detects obstacles and signals the Arduino Uno.  
+- The **buzzer** provides an alert when an obstacle is near.  
+- The **GPS tracking system** ensures safety by triggering an emergency message when needed.  
+- The system is designed to be **efficient, user-friendly, and portable**, improving mobility for visually impaired individuals.  
+
+## 📩 Contact  
+For any queries or collaborations, feel free to reach out:  
+📧 Email: [aashytha020504@gmail.com](mailto:aashytha020504@gmail.com)  
+🔹 LinkedIn: [Aashrytha Tadepalli](https://www.linkedin.com/in/aashrytha-tadepalli-897a55227/)  
